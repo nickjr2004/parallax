@@ -1,0 +1,69 @@
+body{
+    font-family: sans-serif;
+}
+
+.parallax{
+    background-image: url(https://www.etonline.com/sites/default/files/images/2021-08/L1750643.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 300px;
+}
+
+.parallax2{
+    background-image: url(https://www.rollingstone.com/wp-content/uploads/2019/05/TylerTheCreator_SamRock.jpg);
+}
+
+.title{
+    color: white;
+    text-align: center;
+}
+
+.image{
+    padding: 250px;
+}
+
+
+.image2{
+    background-image: url(https://vastphotos.com/files/uploads/photos/10521/toronto-skyline-sunset-l.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.image3{
+    background-image: url(https://media.npr.org/assets/img/2017/03/30/kendrick-lamar-humble_brick-878b5be054b2de1b20cc8e319edc1577f61b810d.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.subtitle{
+    text-align: center;
+    display: block;
+}
+
+.line{
+    width: 50%;
+}
+
+.sec{
+    background: #f0f0f0;
+    padding: 20px;
+}
+
+.section{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 40px;
+}
+
+.section img{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
